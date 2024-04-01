@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+assets.letemps.ch	TRUE	/	FALSE	1999999999	SRVGROUP	common
+.slack.com	TRUE	/	FALSE	1999999999	b	ce95b020397173bd23c316d6259eafaf
+.slack.com	TRUE	/	FALSE	1999999999	x	ce95b020397173bd23c316d6259eafaf.1711903268
+.slack.com	TRUE	/	FALSE	1999999999	d-l	deleted
+o-cr2019.slack.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
